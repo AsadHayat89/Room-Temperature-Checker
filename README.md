@@ -3,21 +3,13 @@
 # ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/Room-Temperature-Checker/main/ScreenShots/temprature%20checker.gif)
 
 ## Requirements
-Windows 10 
-Must have Bluetooth printer
+* Windows Operating  System
+* Must have Stable internet connection
 
 
 
 ## Details
-This project helps driver to maintain invoice records. We have different applications for shopkeepers and other to keep invoice, But we haven’t seen any such application for drivers. So this would help drivers to maintain record of customer. This application provide following functionalities.
-* Create Invoice on customer's arrival
-*	Can print invoice through Bluetooth printer.
-*	User can search any invoice based on date, time and by name.
-*	User can see earning record through bar chart.
-*	User can see earning record through table.
-*	User can add password through whole application.
-*	User can send SAF mail to owner for backup. others 
-
+Aim of this application is to get temperature of current location. We uses whether API for this purpose and get the result through JSON file. So for this project stable internet is important.
 For futhure information contact me through mail
 ## Author Information
 ### Name
